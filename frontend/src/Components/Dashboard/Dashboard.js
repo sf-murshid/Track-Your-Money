@@ -100,6 +100,7 @@ const DashboardStyled = styled.div`
                 .balance{
                     grid-column: 2 / 4;
                     display: flex;
+                    margin-bottom: 2rem;
                     flex-direction: column;
                     justify-content: center;
                     align-items: center;
